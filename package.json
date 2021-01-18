@@ -1,0 +1,15 @@
+{
+  "name": "vv-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open" : "cypress open",
+    "cypress:run"  : "cypress run"
+  },
+  "author": "Luiz Baptista",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.2.1"
+  }
+}
