@@ -3,3 +3,4 @@ package-lock.json
 cypress/integration/examples
 cypress/fixtures
 cypress/videos
+cypress/screenshots/examples
